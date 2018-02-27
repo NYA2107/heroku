@@ -26,7 +26,7 @@
         <script src="mouse.js"></script>
         <header>
             <div id="header">
-                <h5>THIS PROGRAM DETECT YOUR CURSOR POSITION AND CREATE AN ELEMENT WHEN IT MOVES, FOR TESTING ONLY (CREATED BY IMAM NAJIBULLOH HR)</h5>
+                <h5>THIS PROGRAM DETECT YOUR CURSOR POSITION AND CREATE AN ELEMENT WHEN IT MOVES(CREATED BY IMAM NAJIBULLOH HR)</h5>
 
             </div>
         </header>
